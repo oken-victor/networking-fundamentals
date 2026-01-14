@@ -1,0 +1,42 @@
+# Networking Basics
+
+Networking basics cover the fundamental concepts and skills required to set up, manage, and understand computer networks. These concepts are essential for cybersecurity, system administration, and ethical hacking.
+
+Networking enables devices to communicate, share resources, and access information efficiently.
+
+---
+
+## Local Area Network (LAN)
+
+A Local Area Network (LAN) is a type of network that connects computers and devices within a limited area such as a home, office, or school.
+
+LANs can range from:
+- Simple networks with two computers
+- Large networks connecting hundreds or thousands of devices
+
+LANs allow users to share resources such as:
+- Printers
+- Documents
+- Pictures
+- Music
+- Files and applications
+
+---
+
+## Small Office / Home Office (SOHO) Networks
+
+SOHO networks are designed for small offices or home environments. They allow a small number of users to share internet access and local resources securely and efficiently.
+
+---
+
+## Business Networks
+
+Business networks are larger and more complex networks used by organizations. They support many users, servers, security systems, and enterprise applications.
+
+---
+
+## Wide Area Network (WAN)
+
+A Wide Area Network (WAN) connects multiple local networks over large geographical areas.
+
+The internet is the largest example of a WAN, connecting hundreds of millions of computers and devices worldwide.
