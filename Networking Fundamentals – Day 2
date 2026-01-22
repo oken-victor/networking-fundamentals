@@ -1,0 +1,64 @@
+## 📘 Topics Covered
+
+### 🔢 Binary & ASCII
+Computers use **binary digits (0s and 1s)** to represent and process data.
+
+- Binary is used to represent:
+  - Letters
+  - Numbers
+  - Special characters
+
+Examples:
+- Capital Letter (A): `01000001`
+- Number (9): `00111001`
+- Special Character (#): `00100011`
+
+---
+
+## 📡 Data Transmission Methods
+
+Data can be transmitted using different signal types:
+
+### ⚡ Electrical Signals
+- Transmitted through **copper cables**
+- Common in Ethernet networks
+
+### 💡 Optical Signals
+- Transmitted as **light**
+- Used in **fiber optic cables**
+- High speed and long-distance communication
+
+### 📶 Wireless Signals
+- Use **radio waves or microwaves**
+- Transmitted through air
+- Common in Wi-Fi and mobile networks
+
+---
+
+## 🖥️ Basic Network Communication
+Computers (PCs) can communicate directly or through network connections to share data and resources.
+
+---
+
+## 🎯 Why This Matters
+Understanding how data is encoded and transmitted is a **core foundation for**:
+- Networking
+- Cybersecurity
+- SOC Analysis
+- Ethical Hacking
+
+Strong fundamentals lead to stronger security skills.
+
+---
+
+## 📌 Progress Log
+- ✔ Networking Basics
+- ✔ Binary & ASCII
+- ✔ Data Transmission Methods
+
+More updates coming as I continue learning 🚀
+
+---
+
+## 🔐 Learning Path
+Networking → Security → SOC Analyst → Ethical Hacker
