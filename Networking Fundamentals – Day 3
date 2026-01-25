@@ -1,0 +1,107 @@
+# 🌐 Networking Fundamentals – Day 3
+
+This repository documents my daily progress in **Networking Fundamentals** as part of my **Cybersecurity learning journey**.
+
+---
+
+## 📘 Topics Covered
+
+### 📊 Bandwidth
+Bandwidth is the **capacity of a communication medium** to carry data.
+
+- It represents the **maximum amount of data** that can be transmitted over a network connection.
+
+---
+
+### 🚀 Throughput
+Throughput is the **actual rate of data transfer** over a network during a given period of time.
+
+- It measures how many bits successfully travel across the network
+- Affected by:
+  - Network congestion
+  - Hardware limitations
+  - Latency and errors
+
+---
+
+### 🌐 Internet Speed (Download & Upload)
+Internet speed determines how fast data is:
+- **Downloaded** from the internet
+- **Uploaded** to the internet
+
+Speed affects:
+- Browsing
+- Streaming
+- File transfers
+- Online communication
+
+---
+
+## 🖥️ Clients and Servers
+
+### Server
+A **server** is a computer that runs software designed to provide services to other computers.
+
+Examples:
+- Email server
+- Web server
+- File server
+
+---
+
+### Client
+A **client** is a device that requests services from a server.
+
+Examples:
+- Laptop
+- Smartphone
+- Desktop computer
+
+---
+
+### Hosts
+Any device connected to a network that participates in communication is called a **host**.
+
+---
+
+## 🔁 Peer-to-Peer (P2P) Networking
+
+### Advantages of P2P
+- Easy to set up
+- Less complex
+- Low cost
+- Useful for simple tasks
+
+### Disadvantages of P2P
+- No centralized administration
+- Less secure
+- Not scalable
+- Devices act as both client and server
+
+📌 In P2P networks, each device can function as **both a client and a server**.
+
+---
+
+## 🎯 Why This Matters
+Understanding bandwidth, throughput, client-server models, and P2P networking is essential for:
+- Networking fundamentals
+- Cybersecurity
+- SOC analysis
+- Ethical hacking
+
+Strong networking knowledge builds strong security skills 🔐
+
+---
+
+## 📌 Progress Log
+- ✔ Bandwidth
+- ✔ Throughput
+- ✔ Clients & Servers
+- ✔ Peer-to-Peer Networking
+
+More updates coming as I continue learning 🚀
+
+---
+
+## 🔐 Learning Path
+Networking → Security → SOC Analyst → Ethical Hacker
