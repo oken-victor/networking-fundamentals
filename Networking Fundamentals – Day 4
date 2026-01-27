@@ -1,0 +1,68 @@
+# 🌐 Networking Fundamentals  
+## Cybersecurity Learning Journey
+
+This repository documents my **networking fundamentals studies** as part of my transition into **cybersecurity**.  
+Networking is the backbone of security, and this repo reflects my daily learning progress.
+
+---
+
+## 📘 Day 4 – Network Infrastructure & Connectivity
+
+### 🧱 Network Infrastructure
+Network infrastructure refers to the hardware and software components that support network communication.
+
+**Key components include:**
+- **End Devices** – computers, mobile phones, servers  
+- **Intermediate Devices** – routers, switches  
+- **Network Media** – cables, fiber optics, wireless signals  
+
+---
+
+### 🌐 Internet & ISP Connectivity
+- An **Internet Service Provider (ISP)** connects networks to the internet.
+- The internet backbone is formed by interconnected ISPs using:
+  - Fiber-optic cables  
+  - Routers and switches  
+- These components manage and route data from source to destination.
+
+---
+
+### 📡 Wireless Communication Technologies
+
+#### Bluetooth
+- Short-range, low-power wireless communication  
+- Reduces the need for physical cables  
+
+#### NFC (Near Field Communication)
+- Enables close-range data exchange between devices  
+- Uses electromagnetic fields for communication  
+
+#### Wi-Fi & Mobile Devices
+- Allow wireless network access
+- Enable mobility, productivity, and global connectivity  
+
+---
+
+### 🛰 Other Wireless Networks
+
+- **GPS**
+  - Uses satellites for global signal transmission  
+  - Enables location-based services  
+
+- **Wi-Fi**
+  - Connects devices to local networks wirelessly  
+
+---
+
+## 🔐 Why Networking Matters in Cybersecurity
+Understanding how networks operate is essential before learning:
+- Network security
+- Traffic monitoring
+- Intrusion detection
+- Ethical hacking techniques
+
+---
+
+📌 **This repository tracks my daily networking studies as I build a strong cybersecurity foundation.**
+
+🚀 *Next step: networking protocols and security fundamentals.*
